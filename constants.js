@@ -40,8 +40,12 @@ const replies = [
   ["I am Promethiuem and created by Team Error 505"],
   //4
   ["I am just a bot", "I am a bot. What are you?"],
-  //
-  ["You can get all available books,Pdf's,Mcq pdfs in course material section\nplease refer to course material section in navigation bar\nYou can access the notice board by clickimg on notice board section on the navigation bar\nTo reset your password contact either on of management team members or the admin(Your Roll No maybe your Password Please check\nyour Roll No is your Password if the issue is not resolves yet please contact us!\nfor Queries Administrator contact no is:XXXXXXXXXXXX,\n Support team MAil: abc@gmail.com  "],
+  //5
+  ["You can get all available books,Pdf's,Mcq pdfs in course material section","please refer to course material section in navigation bar"],
+  //6
+  ["You can access the notice board by clickimg on notice board section on the navigation bar"],
+  //7
+  ["To reset your password contact either on of management team members or the admin(Your Roll No maybe your Password Please check\nyour Roll No is your Password if the issue is not resolves yet please contact us!\nfor Queries Administrator contact no is:XXXXXXXXXXXX,\n Support team MAil: abc@gmail.com  "],
   //8
   ["Appreciated"],
   //9
