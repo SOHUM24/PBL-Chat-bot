@@ -23,7 +23,7 @@ const prompts = [
   //12
   ["no","not sure","maybe","no thanks"],
   //13
-  [""],
+  ["gg"],
 
 ]
 
