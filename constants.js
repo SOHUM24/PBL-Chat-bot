@@ -3,17 +3,17 @@ const prompts = [
   //1
   ["hi", "hey", "hello", "good morning", "good afternoon"],
   //2
-  ["where is Attendance Info","Where Attendance","Where can I find my Attendance records", "Where are Attendance Records"]
+  ["where is Attendance Info", "Where Attendance", "Where can I find my Attendance records", "Where are Attendance Records"],
   //3
   ["Who created you?", "what is your name"],
   //4
   ["who are you", "are you human", "are you bot", "are you human or bot"],
   //5
-  ["Where can I find Study material for My course", "Study material ","Books","pdf","Mcq's","Mcq pdfs"],
+  ["Where can I find Study material for My course", "Study material ", "Books", "pdf", "Mcq's", "Mcq pdfs"],
   //6
-  ["where is notice board","where can I found latest news","where NoticeBoard","where is Notice Board"],
+  ["where is notice board", "where can I found latest news", "where NoticeBoard", "where is Notice Board"],
   //7
-  ["how can I reset my passwod?","how to avail Forgot password","Whom to contact to reset my password?"],
+  ["how can I reset my passwod?", "how to avail Forgot password", "Whom to contact to reset my password?"],
   //8
   ["ah", "yes", "ok", "okay", "nice"],
   //9
@@ -21,7 +21,7 @@ const prompts = [
   //11
   ["bro"],
   //12
-  ["no","not sure","maybe","no thanks"],
+  ["no", "not sure", "maybe", "no thanks"],
   //13
   ["gg"],
 
@@ -31,7 +31,7 @@ const prompts = [
 
 const replies = [
   //1
-  ["Hello!, Welcome to Sinhgad College SE ERP website ", "Hi there!,Chat-BOT here","Howdy!, How can I help you?"],
+  ["Hello!, Welcome to Sinhgad College SE ERP website ", "Hi there!,Chat-BOT here", "Howdy!, How can I help you?"],
   //2
   [
     "You can find the attendance tab in the navigation bar"
@@ -65,6 +65,6 @@ const alternative = [
   "I don't understand :/"
 ]
 
-const extra=[
+const extra = [
   "WELCOME To Sinhgad SE ERP website PDF will be on Study material section on nav bar,\n All documents present on notice board as well as study material section"
 ]
